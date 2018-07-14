@@ -1,0 +1,17 @@
+extends: airbnb-base/legacy
+parserOptions:
+  sourceType: module
+  ecmaVersion: 8
+rules:
+  func-names: 0
+  no-console: 0
+  no-param-reassign: 0
+  no-underscore-dangle: 0
+  no-return-await: 0
+env:
+  browser: true
+  node: true
+globals:
+  log: true
+  R: true
+  Utils: true

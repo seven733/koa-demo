@@ -1,0 +1,3 @@
+mongoUrl: 'mongodb://localhost:27017/demo-ut'
+port: 2334
+secret: 'seven-test'

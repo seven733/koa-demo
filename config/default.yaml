@@ -1,0 +1,3 @@
+mongoUrl: 'mongodb://localhost:27017/demo'
+port: 2333
+secret: 'seven-secret'
