@@ -9,4 +9,7 @@ yarn dev
 
 # test
 yarn test
+
+# docker build
+docker image build -t koa-demo .
 ```
